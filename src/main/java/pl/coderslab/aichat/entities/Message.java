@@ -12,7 +12,7 @@ public class Message {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    // TODO : nie dziala////
+    // TODO : nie dziala//
     private String owner;
 
     private String content;
