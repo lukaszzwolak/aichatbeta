@@ -1,0 +1,7 @@
+pl\coderslab\aichat\entities\ApplicationUser.class
+pl\coderslab\aichat\repositories\ApplicationUserRepository.class
+pl\coderslab\aichat\entities\Answer.class
+pl\coderslab\aichat\entities\Question.class
+pl\coderslab\aichat\controllers\ApplicationUserController.class
+pl\coderslab\aichat\entities\Message.class
+pl\coderslab\aichat\AichatApplication.class
